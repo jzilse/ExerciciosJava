@@ -1,6 +1,6 @@
-package Exercicios.java.Encapsulamento.teste;
+package Exercicios.Encapsulamento.teste;
 
-import Exercicios.java.Encapsulamento.dominio.ContaBancaria;
+import Exercicios.Encapsulamento.dominio.ContaBancaria;
 
 import java.util.Scanner;
 

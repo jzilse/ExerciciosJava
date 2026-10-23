@@ -1,6 +1,6 @@
-package Exercicios.java.Metodos.teste;
+package Exercicios.Metodos.teste;
 
-import Exercicios.java.Metodos.dominio.CalculdoraEstatistica;
+import Exercicios.Metodos.dominio.CalculdoraEstatistica;
 
 public class CalculadoraEstatisticaTest {
     public static void main(String[] args) {

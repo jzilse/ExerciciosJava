@@ -1,4 +1,4 @@
-package Exercicios.java.Metodos.dominio;
+package Exercicios.Metodos.dominio;
 
 public class ContaBancaria {
     public String titular;

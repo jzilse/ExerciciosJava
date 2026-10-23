@@ -1,4 +1,4 @@
-package Exercicios.java.Sobrecargametodos.dominio;
+package Exercicios.Sobrecargametodos.dominio;
 
 public class Calculadorageometrica {
     private double retangulo;

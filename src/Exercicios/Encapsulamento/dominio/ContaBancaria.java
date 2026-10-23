@@ -1,4 +1,4 @@
-package Exercicios.java.Encapsulamento.dominio;
+package Exercicios.Encapsulamento.dominio;
 
 public class ContaBancaria {
     private String titular;

@@ -1,4 +1,4 @@
-package Exercicios.java.Metodos.dominio;
+package Exercicios.Metodos.dominio;
 
 public class CalculdoraEstatistica {
     public void calcularMedia(double... numeros){

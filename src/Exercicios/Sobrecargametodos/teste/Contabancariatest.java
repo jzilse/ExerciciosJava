@@ -1,6 +1,6 @@
-package Exercicios.java.Sobrecargametodos.teste;
+package Exercicios.Sobrecargametodos.teste;
 
-import Exercicios.java.Sobrecargametodos.dominio.Contabancaria;
+import Exercicios.Sobrecargametodos.dominio.Contabancaria;
 
 public class Contabancariatest {
     static void main(String[] args) {

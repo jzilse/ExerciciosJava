@@ -1,6 +1,6 @@
-package Exercicios.java.Sobrecargametodos.teste;
+package Exercicios.Sobrecargametodos.teste;
 
-import Exercicios.java.Sobrecargametodos.dominio.Calculadorageometrica;
+import Exercicios.Sobrecargametodos.dominio.Calculadorageometrica;
 
 public class Calculadorageotest {
     static void main(String[] args) {

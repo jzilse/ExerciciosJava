@@ -1,6 +1,6 @@
-package Exercicios.java.Metodos.teste;
+package Exercicios.Metodos.teste;
 
-import Exercicios.java.Metodos.dominio.ContaBancaria;
+import Exercicios.Metodos.dominio.ContaBancaria;
 
 import java.util.Scanner;
 

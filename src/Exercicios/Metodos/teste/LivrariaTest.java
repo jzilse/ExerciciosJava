@@ -1,7 +1,7 @@
-package Exercicios.java.Metodos.teste;
+package Exercicios.Metodos.teste;
 
-import Exercicios.java.Metodos.dominio.Livraria;
-import Exercicios.java.Metodos.dominio.Livro;
+import Exercicios.Metodos.dominio.Livraria;
+import Exercicios.Metodos.dominio.Livro;
 
 import java.util.Scanner;
 
